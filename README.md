@@ -20,7 +20,7 @@ The client requested that their code to better follow accessibility standards in
 
 ## Screenshot
 
-![Screenshot](./assets/challenge1-screenshot.png)
+![Screenshot](./assets/Challenge1-screenshot.png)
 
 ## Link
 
