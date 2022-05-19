@@ -1,12 +1,24 @@
-/* TO DO: CONSOLIDATE & ORDER TO FOLLOW SEMANTIC STRUCTURE */
+/* Universal selector making element height & width unaffected by padding/borders*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
+
 /* Document body colour set to white */
 body {
     background-color: #d9dcd6;
+}
+
+/* Removing underline from nav bar links & setting colour back to white */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* All paragraphs have a default font size of 16px */
+p {
+    font-size: 16px;
 }
 
 /* Document header banner styles */
@@ -48,16 +60,6 @@ body {
     margin-left: 25px;
 }
 
-/* Removing underline from nav bar links & setting colour back to white */
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/* All paragraphs have a default font size of 16px */
-p {
-    font-size: 16px;
-}
 
 /* Leading image properties */
 .hero {
