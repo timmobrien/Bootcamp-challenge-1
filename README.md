@@ -17,3 +17,11 @@ The client requested that their code to better follow accessibility standards in
 2. Classes with identical properties are separated with commas to make the code more succinct
 3. Semantic changes made in the HTML file reflected in CSS file
 4. Structure changes to better follow semantic structure.
+
+## Screenshot
+
+![Screenshot](./assets/challenge1-screenshot.png)
+
+## Link
+
+https://timmobrien.github.io/Bootcamp-challenge-1/
